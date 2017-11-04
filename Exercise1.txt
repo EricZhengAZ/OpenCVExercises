@@ -1,1 +1,2 @@
-1. 
+1. Programs will read each channel separately. The order of pixel structure is Red, Green and Blue.
+
