@@ -1,2 +1,1 @@
-1. Programs will read each channel separately. The order of pixel structure is Red, Green and Blue.
-
+1. Programs will firstly read the rows and then read the cols and last read the type. The order of pixel structure is bit_depth, then colorspaces, and then number_of_channel.
